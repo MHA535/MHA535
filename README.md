@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHA535
 - 👀 I’m interested in Learning Automation 
-- 🌱 I’m currently learning LLM, NLP with Automating Semantic SEO
+- 🌱 I’m currently Working on LLM, NLP with Automating Semantic Information Retrieval
 - 💞️ I’m looking to collaborate on Nothing yet
 - 📫 How to reach me on mhasanali381@gmail.com or Whatsapp +923453430023
 
