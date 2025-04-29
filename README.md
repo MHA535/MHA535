@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MHA535, a complex human with a curious mind hanging out in Tech World.
-- 👀 I’m a Developer | Applied Data Scientist (NLP, LLMs) | SaaS Builder | Serverless & API Specialist
+- 👀 I’m a Lead Engineer | Gen AI Data Scientist (NLP, LLMs) | SaaS Builder | Serverless & API Specialist
 - 💞️ I’m looking to collaborate on Nothing yet, However if you have something interesting I'm open for discussion
 - 📫 How to reach me on mhasanali381@gmail.com or Whatsapp +923453430023
 
